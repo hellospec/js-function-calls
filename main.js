@@ -1,7 +1,7 @@
 import players from "./js/players";
 import { cast } from "./js/magics";
 
-import "./app.scss";
+import "./css/app.scss";
 
 function initPlayers() {
   players.forEach((player) => {
